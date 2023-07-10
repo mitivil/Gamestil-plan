@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T13:58:03.626Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0" etag="fvOk4ZmwCCWgkpG8Tcl3" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T14:09:46.123Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0" etag="shgYSJadKS1xeY6krH0z" version="21.6.1" type="github">
   <diagram name="Страница 1" id="sZcEX8NjpGKJp34SxkrZ">
     <mxGraphModel dx="988" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,14 +34,14 @@
         <mxCell id="hwsWxe78rxSsJQKAiXmT-15" value="&lt;font style=&quot;font-size: 9px;&quot; color=&quot;#006600&quot;&gt;Подключаю $this-&amp;gt;load-&amp;gt;controller(&quot;&amp;lt;module/price&amp;gt;&quot;);&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="130" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hwsWxe78rxSsJQKAiXmT-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1.&amp;nbsp; setPrice();&lt;br&gt;2.&amp;nbsp; getPrice();&lt;br&gt;3.&amp;nbsp; infoPrice();&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371" y="299.5" width="120" height="50.5" as="geometry" />
+        <mxCell id="hwsWxe78rxSsJQKAiXmT-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1.&amp;nbsp; setPrice();&lt;br&gt;2.&amp;nbsp; getPrice();&lt;br&gt;3.&amp;nbsp; infoPrice();&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;4. GetPermission&lt;/font&gt;();&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="120" height="61" as="geometry" />
         </mxCell>
         <mxCell id="hwsWxe78rxSsJQKAiXmT-18" value="&lt;font color=&quot;#05A3FF&quot;&gt;Доступные методы&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="285.5" width="140" height="13.5" as="geometry" />
         </mxCell>
         <mxCell id="hwsWxe78rxSsJQKAiXmT-19" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;И тп.....&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="348" width="63" height="30" as="geometry" />
+          <mxGeometry x="380" y="360" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hwsWxe78rxSsJQKAiXmT-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.004;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hwsWxe78rxSsJQKAiXmT-23" target="hwsWxe78rxSsJQKAiXmT-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
