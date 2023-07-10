@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T13:57:28.436Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0" etag="ye3Jy_h8XknnOJh2QdVU" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T13:58:03.626Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0" etag="fvOk4ZmwCCWgkpG8Tcl3" version="21.6.1" type="github">
   <diagram name="Страница 1" id="sZcEX8NjpGKJp34SxkrZ">
     <mxGraphModel dx="988" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="hwsWxe78rxSsJQKAiXmT-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="201" width="160" height="259" as="geometry" />
         </mxCell>
-        <mxCell id="hwsWxe78rxSsJQKAiXmT-11" value="Контроллер т овара" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hwsWxe78rxSsJQKAiXmT-11" value="Контроллер товара" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="20" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hwsWxe78rxSsJQKAiXmT-13" value="&lt;div&gt;Модуль, класс, методы&lt;br&gt;&lt;font color=&quot;#FF2908&quot;&gt;&lt;u&gt;ИЗМЕНЕНИЯ ЦЕН&lt;/u&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
